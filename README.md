@@ -1,4 +1,4 @@
-# RSI Template — Festify API
+# RSI Template 
 
 A **.NET 8** Web API starter focused on clear, teachable patterns: one controller class per route/action (“vertical slice” style), **Entity Framework Core** with **SQL Server**, **FluentValidation**, **Swagger**, and a **custom session-style token** stored in the database (not JWT for the main auth flow).
 
